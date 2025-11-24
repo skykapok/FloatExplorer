@@ -1,0 +1,5 @@
+{
+  "name": "Float Explorer",
+  "description": "An interactive visualization of IEEE 754 floating-point numbers. Explore memory representations for 16-bit, 32-bit, and 64-bit floats, manipulate bits, and observe precision limitations.",
+  "requestFramePermissions": []
+}
